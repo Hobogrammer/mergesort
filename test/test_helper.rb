@@ -1,2 +1,2 @@
-require 'minitest/autrorun'
+require 'minitest/autorun'
 require 'minitest/spec'
